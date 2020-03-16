@@ -1,4 +1,5 @@
 
 !!com.sun.rowset.JdbcRowSetImpl
-  dataSourceName: "http://127.0.0.1:2333/"
+  dataSourceName: "http://188.131.187.191:9999/test"
   autoCommit: true
+
